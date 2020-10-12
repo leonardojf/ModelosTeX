@@ -10,4 +10,4 @@ Esta obra está licenciado com uma Licença [Creative Commons Atribuição-Compa
 
 ## Modelos ##
 
-1. [Avaliação de Apresentação](avaliacao_critica.tex)
+1. [Avaliação Crítica](avaliacao_critica.tex)
