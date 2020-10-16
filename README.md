@@ -1,6 +1,6 @@
 # Modelos TeX #
 
-Conjuntos de modelos de documentos. Você vai previsar dos arquivos avaliacao_critica.tex, UnBExam.cls e CIC_header.pdf
+Conjuntos de modelos de documentos. Você vai previsar dos arquivos [Avaliação Crítica](avaliacao_critica.tex), [UnBExam](UnBExam.cls) e [header](CIC_header.pdf).
 
 ## Licença ##
 
@@ -8,6 +8,4 @@ Esta obra está licenciado com uma Licença [Creative Commons Atribuição-Compa
 
 ![Licença Creative Commons](cc.png?raw=true )
 
-## Modelos ##
 
-1. [Avaliação Crítica](avaliacao_critica.tex)
