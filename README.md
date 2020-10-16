@@ -1,6 +1,6 @@
 # Modelos TeX #
 
-Conjuntos de modelos de documentos.
+Conjuntos de modelos de documentos. Você vai previsar dos arquivos avaliacao_critica.tex, UnBExam.cls e CIC_header.pdf
 
 ## Licença ##
 
